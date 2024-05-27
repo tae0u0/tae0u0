@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeongKims&count_private=true&show_icons=true&theme=tokyonight&locale=kr)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodud8530)](https://solved.ac/cms8955/)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m0304s&custom_title=Minseok's%20Contribution%20Graph&hide_border=true&theme=vue)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taeyeongKims&custom_title=taeyeongKim's%20Contribution%20Graph&hide_border=true&theme=vue)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
