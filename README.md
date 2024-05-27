@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minseok's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0304s&theme=vue&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0304s&exclude_repo=m0304s&layout=compact&theme=vue" width="32%" />
-</a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms8955)](https://solved.ac/cms8955/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtaeyeongKims&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&text=Welcome%20to%20taeyeongKim's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeongKims&count_private=true&show_icons=true&theme=tokyonight&locale=kr)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodud8530)](https://solved.ac/cms8955/)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m0304s&custom_title=Minseok's%20Contribution%20Graph&hide_border=true&theme=vue)
 
 ## 🔨 Once I've used 🔨
